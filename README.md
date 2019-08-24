@@ -8,8 +8,8 @@ specific user.
 This is the first of a two part program. The second part is [here](https://github.com/ihartzell/final-twitter),\
 where This program is developed to do more.
 
-Note: A txt file is needed in order for this program to actually work. A file with twitter user ID's\
-and their follower ID's is what would be needed.
+Note: A txt file in the src directory is needed in order for this program to actually work. A file with twitter\
+user ID's and their follower ID's is what would be needed.
 
 ## Author Info
 - Author: Isaac Hartzell
